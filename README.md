@@ -16,11 +16,13 @@ https://raw.githubusercontent.com/TypeDreamMoon/dreamshader-package-index/main/p
   "displayName": "Dream Noise",
   "description": "Noise, FBM and Voronoi helpers for DreamShaderLang.",
   "repository": "https://github.com/TypeDreamMoon/dream-noise",
+  "path": "../dreamshader-packages/dream-noise",
   "tags": ["noise", "procedural"]
 }
 ```
 
 Each repository should contain a `dreamshader.package.json` file at its root.
+The optional `path` field is for local development indexes; it is resolved relative to this `packages.json` file when opened from disk.
 
 ## Default Packages
 
