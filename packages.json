@@ -60,6 +60,13 @@
       "description": "Post-process color, vignette and tonemapping helpers for DreamShaderLang.",
       "repository": "https://github.com/TypeDreamMoon/dreamshader-postprocess",
       "tags": ["postprocess", "vignette", "tonemap", "screen"]
+    },
+    {
+      "name": "@typedreammoon/dreamshader-texture",
+      "displayName": "DreamShader Texture",
+      "description": "Texture sampling and manipulation helpers for DreamShaderLang.",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-texture",
+      "tags": ["texture", "sampling", "wrapping", "filtering"]
     }
   ]
 }
