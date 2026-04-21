@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "name": "TypeDreamMoon DreamShader Package Index",
+  "description": "Default DreamShader package index for DreamShaderLang shared shader libraries.",
+  "homepage": "https://github.com/TypeDreamMoon/dreamshader-package-index",
+  "updatedAtUtc": "2026-04-21T00:00:00Z",
+  "packages": [
+    {
+      "name": "@typedreammoon/dreamshader-math",
+      "displayName": "DreamShader Math",
+      "description": "Reusable scalar, vector and remapping helpers for DreamShaderLang.",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-math",
+      "tags": ["math", "remap", "rotate", "hash"]
+    },
+    {
+      "name": "@typedreammoon/dreamshader-color",
+      "displayName": "DreamShader Color",
+      "description": "Color grading, luminance and HSV helpers for DreamShaderLang.",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-color",
+      "tags": ["color", "hsv", "luminance", "grading"]
+    },
+    {
+      "name": "@typedreammoon/dreamshader-uv",
+      "displayName": "DreamShader UV",
+      "description": "UV transform and screen-space coordinate helpers for DreamShaderLang.",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-uv",
+      "tags": ["uv", "rotate", "tiling", "polar"]
+    },
+    {
+      "name": "@typedreammoon/dreamshader-noise",
+      "displayName": "DreamShader Noise",
+      "description": "Hash, value noise and FBM helpers for DreamShaderLang.",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-noise",
+      "tags": ["noise", "hash", "fbm", "procedural"]
+    },
+    {
+      "name": "@typedreammoon/dreamshader-sdf",
+      "displayName": "DreamShader SDF",
+      "description": "Signed distance field primitive and composition helpers for DreamShaderLang.",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-sdf",
+      "tags": ["sdf", "distance", "shape", "mask"]
+    },
+    {
+      "name": "@typedreammoon/dreamshader-normal",
+      "displayName": "DreamShader Normal",
+      "description": "Normal map unpacking, blending and utility helpers for DreamShaderLang.",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-normal",
+      "tags": ["normal", "normalmap", "rnm", "blend"]
+    },
+    {
+      "name": "@typedreammoon/dreamshader-pbr",
+      "displayName": "DreamShader PBR",
+      "description": "Small physically based rendering helpers for DreamShaderLang materials.",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-pbr",
+      "tags": ["pbr", "fresnel", "roughness", "metallic"]
+    },
+    {
+      "name": "@typedreammoon/dreamshader-postprocess",
+      "displayName": "DreamShader PostProcess",
+      "description": "Post-process color, vignette and tonemapping helpers for DreamShaderLang.",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-postprocess",
+      "tags": ["postprocess", "vignette", "tonemap", "screen"]
+    }
+  ]
+}
