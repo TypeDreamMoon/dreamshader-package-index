@@ -67,6 +67,13 @@
       "description": "Texture sampling and manipulation helpers for DreamShaderLang.",
       "repository": "https://github.com/TypeDreamMoon/dreamshader-texture",
       "tags": ["texture", "sampling", "wrapping", "filtering"]
+    },
+    {
+      "name": "@typedreammoon/dreamshader-blender",
+      "displayName": "DreamShader Blender",
+      "description": "Blender Nodes For Dream Shader",
+      "repository": "https://github.com/TypeDreamMoon/dreamshader-blender",
+      "tags": ["math"]
     }
   ]
 }
